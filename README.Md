@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm undergraduate computer science<br>🤝 I’m currently looking for opportunities<br>🌱 Living , Learning and Levelling
+🔭 I'm undergraduate computer science<br>🤝 Fullstack Developer at iDev Corner<br>🌱 Living , Learning and Levelling
 
 
 ## 🌐 Socials:
