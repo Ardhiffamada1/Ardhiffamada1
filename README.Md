@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ardhiffa Mada Perdana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia and currently freelancing at PT. Indonesia Development Corner</h3>
 
-- 🌱 I’m currently learning **GoLang and astro js**
+- 🌱 I’m currently learning **GoLang and Astro js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
