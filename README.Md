@@ -21,7 +21,7 @@
 - 🔭 Building scalable web applications & enterprise systems
 - 💼 Experienced with **Laravel, Next.js, TypeScript & Python**
 - 🌱 Currently exploring **Go & cloud architecture**
-- 🚀 Creator of [CariClipper](https://www.cariclipper.biz.id/)
+- 🚀 Man Behind of [CariClipper](https://www.cariclipper.biz.id/)
 
 ---
 
