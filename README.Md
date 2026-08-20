@@ -8,6 +8,7 @@
 ---
 
 ### 💻 About Me:
+- 🚀 **The man behind [CariClipper](https://www.cariclipper.biz.id/)** — Leading the development and vision of the platform.
 - 🔭 I’m currently working on scalable web applications and enterprise tools (like Warehouse Management Systems & automation platforms).
 - 🌱 I’m currently exploring deeper into **Go (Golang)**, **Astro.js**, and advanced cloud architecture.
 - 💬 Ask me about **PHP/Laravel**, **Python**, **Next.js**, **TypeScript**, and full-stack system design.
